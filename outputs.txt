@@ -1,5 +1,5 @@
-GatorLink: 
-Node: 
+GatorLink:saitejaappani 
+Node: c0702a-s1
 
 === get_sample(n=3) ===
 
